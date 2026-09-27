@@ -1,0 +1,22 @@
+{
+  "admins": {
+    "-Nx7WDRwTdrX_admin1": {
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    }
+  },
+  "flowers": {
+    "-Nx7WDRwTdrX_nutgPXb": {
+      "imageName": "rose.png",
+      "name": "Rose",
+      "origin": "Bulgaria",
+      "quantity": 3.0
+    },
+    "-Nx7ZryEvahb5dMxSFGs": {
+      "imageName": "tulip.jpg",
+      "name": "Tulip",
+      "origin": "Central Asia",
+      "quantity": 2.0
+    }
+  }
+}
